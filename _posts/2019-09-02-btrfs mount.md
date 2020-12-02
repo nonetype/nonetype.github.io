@@ -2,8 +2,8 @@
 layout: post
 title: "btrfs FileSystem mount analysis"
 author: "nonetype"
-categories: dev
-tags: linux_kernel
+categories: [linux]
+tags: [kernel, filesystem, analysis]
 ---
 
 

@@ -2,8 +2,8 @@
 layout: post
 title: "Linux kernel Heap Spraying Techniques"
 author: "nonetype"
-categories: pwn
-tags: "linux kernel exploit"
+categories: [pwn, linux]
+tags: [kernel, heap]
 ---
 
 some Techniques to Spraying Linux kernel heap

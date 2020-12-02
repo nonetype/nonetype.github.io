@@ -2,8 +2,8 @@
 layout: post
 title: "[SOLVED] Failed to start Raise network interfaces."
 author: "nonetype"
-categories: dev
-tags: vm
+categories: [linux]
+tags: [troubleshooting]
 ---
 
 qemu에서 네트워크 설정.

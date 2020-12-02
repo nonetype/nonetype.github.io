@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Linux Kernel sys_mount analysis"
-categories: dev
-tags: linux_kernel
+categories: [linux]
+tags: [kernel, filesystem, analysis]
 ---
 
 

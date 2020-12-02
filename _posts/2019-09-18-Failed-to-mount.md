@@ -2,8 +2,8 @@
 layout: post
 title: "[SOLVED] Failed to mount /sys/kernel/config"
 author: "nonetype"
-categories: dev
-tags: vm
+categories: [linux]
+tags: [troubleshooting]
 ---
 
 Qemu 부팅시 emergency mode로 진입해버리는 오류를 고쳐보자.

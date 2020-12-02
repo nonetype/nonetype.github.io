@@ -2,8 +2,8 @@
 layout: post
 title: "Firefox tip note"
 author: "nonetype"
-categories: pwn
-tags: browsers pwn_tips
+categories: [pwn, browser]
+tags: [firefox, debugging, tips]
 ---
 
 Tip note for Firefox analysis & exploitation
@@ -20,7 +20,7 @@ Tip note for Firefox analysis & exploitation
   - [Debug Array object](#debug-array-object)
     - [Understand Type Masking](#understand-type-masking)
   - [Shape Debugging](#shape-debugging)
-  - [What's 0xe5e5e5e5e5e5e5e5 ???](#whats-0xe5e5e5e5e5e5e5e5)
+  - [What's 0xe5e5e5e5e5e5e5e5 ???](#whats-0xe5e5e5e5e5e5e5e5-)
   - [Object storages](#object-storages)
     - [Inline properties](#inline-properties)
     - [Out-of-line properties](#out-of-line-properties)

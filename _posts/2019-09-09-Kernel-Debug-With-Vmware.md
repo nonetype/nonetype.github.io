@@ -2,8 +2,8 @@
 layout: post
 title: "Linux Kernel debugging with Vmware"
 author: "nonetype"
-categories: dev
-tags: vm
+categories: [linux]
+tags: [kernel, debugging]
 ---
 
 

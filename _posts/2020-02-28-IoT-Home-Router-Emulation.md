@@ -2,8 +2,8 @@
 layout: post
 title: "IoT Firmware Emulation with QEMU"
 author: "nonetype"
-categories: pwn
-tags: pwn_tips
+categories: [pwn]
+tags: [IoT, tips]
 ---
 
 Way to emulate IoT(home router, NAS, ipcam) firmware with QEMU

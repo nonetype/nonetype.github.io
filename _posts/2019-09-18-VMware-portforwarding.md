@@ -2,8 +2,8 @@
 layout: post
 title: "VMware Port Forwarding for Debugging"
 author: "nonetype"
-categories: dev
-tags: vm
+categories: [tools]
+tags: [tips, debugging]
 ---
 
 Qemu Linux Kernel 디버깅을 위해 VMware 포트포워딩을 해보자.

@@ -2,8 +2,8 @@
 layout: post
 title: "blazeme - BlazeCTF 2018"
 author: "nonetype"
-categories: pwn
-tags: "linux kernel exploit"
+categories: [pwn]
+tags: [linux kernel, exploit, ctf]
 ---
 
 BOF를 통한 ret2usr kernel exploit

@@ -2,8 +2,8 @@
 layout: post
 title: "Linux Kernel debugging with Qemu"
 author: "nonetype"
-categories: dev
-tags: vm
+categories: [linux]
+tags: [troubleshooting, debugging]
 ---
 
 리눅스 커널 빌드 & Qemu를 통한 디버그

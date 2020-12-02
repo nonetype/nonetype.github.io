@@ -2,8 +2,8 @@
 layout: post
 title: "[SOLVED] A start job is running for Raise network interfaces (5min 1s)"
 author: "nonetype"
-categories: dev
-tags: vm
+categories: [linux]
+tags: [troubleshooting]
 ---
 
 qemu 부팅이 너무 느려요!
