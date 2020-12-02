@@ -2,7 +2,7 @@
 layout: post
 title: "DLL Hijacking Note"
 author: "nonetype"
-date: 2020-12-01 15:41:00 +0900
+date: 2020-12-02 15:41:00 +0900
 categories: [pwn, windows]
 tags: [dll hijacking]
 ---
