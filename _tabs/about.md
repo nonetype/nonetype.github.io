@@ -7,15 +7,15 @@ order: 4
 # WonYoung Jung
 Pwner in south korea, known as 'nonetype'
 
-Interested in 0-day finding / 1-day analysis (Linkern, Browsers, etc..)
+Interested in Fuzzing, Binary Analysis.
 
-also trying to solve CTF-problems
+
 
 ## Career
 ### 2020
 - Best of the Best 8th TOP40
 - Seminar at 'Affiliated Research Institute of ETRI', 'Kernel Exploit with Filesystem Fuzzer'
-- Security researcher [@Diffense](https://blog.diffense.co.kr/)
+- Security researcher [@Diffense](https://blog.diffense.co.kr/) (2020.04 ~)
 - CodeBlue 2020 speaker
 - HITB+ CyberWeek 2020 speaker
 
