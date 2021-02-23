@@ -1,3 +1,11 @@
+---
+layout: compress
+#
+# A part of the Favicons
+---
+
+{% assign icon_url = "/assets/img/favicons" | relative_url %}
+
 {
  "name": "App",
  "icons": [
