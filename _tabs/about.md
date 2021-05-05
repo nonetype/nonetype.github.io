@@ -46,6 +46,8 @@ Interested in Fuzzing, Binary Analysis.
   - ZDI-CAN-13096
   - ZDI-CAN-13100
   - ZDI-CAN-13162
+
+
 ### 2019
 - Linux Filesystem (EXT4, BTRFS, F2FS)
   <details>
