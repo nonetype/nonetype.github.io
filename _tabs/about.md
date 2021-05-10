@@ -46,29 +46,48 @@ Interested in Fuzzing, Binary Analysis.
   - ZDI-CAN-13096
   - ZDI-CAN-13100
   - ZDI-CAN-13162
+  - and 9 more
 
 
 ### 2019
 - Linux Filesystem (EXT4, BTRFS, F2FS)
   <details>
   <summary>Click to see (total: 16)</summary>
+
   
   * CVE-2019-18885
+
   * CVE-2019-19036
+
   * CVE-2019-19037
+
   * CVE-2019-19039
+
   * CVE-2019-19318
+
   * CVE-2019-19319
+
   * CVE-2019-19377
+
   * CVE-2019-19378
+
   * CVE-2019-19447
+
   * CVE-2019-19448
+
   * CVE-2019-19449
+
   * CVE-2019-19813
+
   * CVE-2019-19814
+
   * CVE-2019-19815
+
   * CVE-2019-19816
+
   * CVE-2019-19927
+
+
   </details>
 
 
